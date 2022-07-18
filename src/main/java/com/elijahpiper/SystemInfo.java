@@ -1,4 +1,4 @@
-package com.elijah-piper;
+package com.elijahpiper;
 
 public class SystemInfo {
 
