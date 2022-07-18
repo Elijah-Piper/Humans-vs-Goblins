@@ -1,4 +1,4 @@
-odule com.elijah-piper {
+module com.elijahpiper {
     requires javafx.controls;
-    exports com.elijah-piper;
+    exports com.elijahpiper;
 }
