@@ -4,17 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3713032-ee7a-4909-968a-3c490096e1d9" name="Changes" comment="">
+    <list default="true" id="e3713032-ee7a-4909-968a-3c490096e1d9" name="Changes" comment="Deleted SystemInfo.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elijahpiper/Goblin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elijahpiper/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elijahpiper/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elijahpiper/grass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/grass.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elijah-piper/SystemInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elijah-piper/SystemInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/elijahpiper/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elijahpiper/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,12 +42,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/GenSpark/Projects/Humans-vs-Goblins/src/main/java"
+    "last_opened_file_path": "C:/GenSpark/Projects/Humans-vs-Goblins/src/main/java/com/elijahpiper",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GenSpark\Projects\Humans-vs-Goblins\src\main\java\com\elijahpiper" />
       <recent name="C:\GenSpark\Projects\Humans-vs-Goblins\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GenSpark\Projects\Humans-vs-Goblins\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.elijahpiper" />
     </key>
   </component>
   <component name="RunManager" selected="Application.com.elijahpiper.App">
@@ -78,6 +97,28 @@
       <option name="presentableId" value="Default" />
       <updated>1658164330822</updated>
     </task>
+    <task id="LOCAL-00001" summary="Moved SystemInfo.java to from com.elijah-piper to com.elijahpiper">
+      <created>1658169039270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169039270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deleted com.elijah-piper package">
+      <created>1658169062486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169062486</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Deleted SystemInfo.java">
+      <created>1658169830747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169830747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +131,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Moved SystemInfo.java to from com.elijah-piper to com.elijahpiper" />
+    <MESSAGE value="Deleted com.elijah-piper package" />
+    <MESSAGE value="Deleted SystemInfo.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted SystemInfo.java" />
   </component>
 </project>
